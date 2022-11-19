@@ -1,0 +1,1 @@
+enum CardCategory { school, national }
